@@ -1,0 +1,9 @@
+.feng-share a{display:block;width:28px;height:24px;background:url(feng_ico_24x24.png) no-repeat;float:left;cursor:pointer}
+.feng-share a:hover{opacity:0.8}
+.feng-share a.feng-share-more{background-position:0 0}
+.feng-share a.feng-share-tsina{background-position:0 -144px}
+.feng-share a.feng-share-tqq{background-position:0 -216px}
+.feng-share a.feng-share-qzone{background-position:0 -96px}
+.feng-share a.feng-share-renren{background-position:0 -240px}
+.feng-share a.feng-share-baidu{background-position:0 -120px}
+.feng-share a.feng-share-douban{background-position:0 -840px}
